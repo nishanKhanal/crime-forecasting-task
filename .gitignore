@@ -156,6 +156,7 @@ cython_debug/
 
 Ignore the extracted data files
 *_Data/
+Data/train/*.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
